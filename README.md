@@ -1,3 +1,4 @@
+
 # EV Health Monitoring System
 
 ## Setup in VS Code
@@ -20,3 +21,6 @@
 6. Open browser:
 
     http://127.0.0.1:8000/docs
+=======
+# EV-vehicle-monitoring
+AI-based EV Vehicle Condition Monitoring system using Machine Learning to detect abnormalities from sensor data and predict vehicle health status.
